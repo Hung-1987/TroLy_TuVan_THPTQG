@@ -1,22 +1,109 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 Bạn hãy đọc những thông tin bên dưới dòng này để trả lời các câu hỏi của khách hàng của tôi.
-CÁC ĐIỂM MỚI TRONG KỲ THI THPTQG
-Quy chế thi tốt nghiệp THPT từ năm 2025 được Bộ GD&ĐT ban hành kèm Thông tư số 24/2024/TT-BGDĐT.
-Bên cạnh kế thừa những nội dung đã được triển khai thuận lợi, ổn định các năm qua, nhất là năm 2023 và 2024, Quy chế có những điểm mới đáng chú ý như sau:
-a)	Giảm 1 buổi thi, giảm 2 môn thi
-Thứ nhất: Tổ chức Kỳ thi thành 3 buổi thi, gồm: 1 buổi thi môn Ngữ Văn, 1 buổi thi môn Toán và 1 buổi tổ chức bài thi tự chọn. Các thí sinh dự thi sẽ được sắp xếp theo tổ hợp bài thi tự chọn để tối ưu phòng thi, điểm thi.
+I.	Công bố cấu trúc đề thi tốt nghiệp THPT năm 2025
+Đề Ngữ văn gồm hai phần Đọc hiểu và Viết, các môn khác thi trắc nghiệm với khoảng 22-40 câu hỏi.Bộ Giáo dục và Đào tạo ngày 8/3 công bố cấu trúc đề thi tốt nghiệp THPT từ năm 2025.
+Kỳ thi gồm hai môn bắt buộc là Toán và Ngữ văn. Ngoài ra, thí sinh được chọn hai trong các môn của chương trình giáo dục phổ thông, gồm: Hóa học, Vật lý, Sinh học, Ngữ văn, Địa lý, Lịch sử, Giáo dục kinh tế và pháp luật, Tin học, Công nghệ và Ngoại ngữ (Anh, Đức, Nga, Nhật, Pháp, Trung, Hàn).
+Đề thi môn Ngữ văn theo hình thức tự luận, gồm hai phần là Đọc hiểu (4 điểm) và Viết (6 điểm). Thí sinh làm bài trong 120 phút.
+Với các môn còn lại, hình thức thi là trắc nghiệm với ba phần. Số lượng câu hỏi từng phần của các môn khác nhau.
+Phần I gồm các câu hỏi với 4 phương án, yêu cầu thí sinh chọn một đáp án đúng. Thí sinh được 0,25 điểm nếu làm đúng mỗi câu.
+Phần II gồm các câu hỏi chọn đáp án đúng/sai. Chọn chính xác, thí sinh sẽ được 0,1 điểm một câu, 0,25 điểm nếu đúng hai câu, 0,5 và 1 điểm nếu làm đúng 3 và 4 câu.
+Phần III gồm các câu dạng trả lời ngắn, yêu cầu thí sinh tô chọn đáp án. Với môn Toán, mỗi câu đúng, thí sinh được 0,5 điểm, các môn khác là 0,25 điểm.
+Tổng điểm tối đa toàn bài thi trắc nghiệm là 10. 
+Thời gian làm bài và số lượng câu hỏi của từng môn như sau:
+Môn Toán có thời gian thi 90 phút, chia làm 3 phần (phần 1: 12 câu, phần 2: 4 câu, phần 3:6 câu.)
+Môn Vật lí có thời gian thi 50 phút, chia làm 3 phần (phần 1: 18 câu, phần 2: 4 câu, phần 3:6 câu.)
+Môn Hóa học có thời gian thi 50 phút, chia làm 3 phần (phần 1: 18 câu, phần 2: 4 câu, phần 3:6 câu.)
+Môn Sinh học có thời gian thi 50 phút, chia làm 3 phần (phần 1: 18 câu, phần 2: 4 câu, phần 3:6 câu.)
+Môn Địa lí có thời gian thi 50 phút, chia làm 3 phần (phần 1: 18 câu, phần 2: 4 câu, phần 3:6 câu.)
+Môn Lịch sử có thời gian thi 50 phút, chia làm 2 phần (phần 1: 24 câu, phần 2: 4 câu)
+Môn Giáo dục kinh tế - pháp luật có thời gian thi 50 phút, chia làm 2 phần (phần 1: 24 câu, phần 2: 4 câu)
+Môn Tin học có thời gian thi 50 phút, chia làm 2 phần (phần 1: 24 câu, phần 2: 6 câu)
+Môn Ngoại ngữ có thời gian thi 50 phút, gồm 40 câu
+Môn Công nghệ sẽ gồm 2 phân môn là:
+Môn Công nghệ công nghiệp có thời gian thi 50 phút, chia làm 2 phần (phần 1: 24 câu, phần 2: 4 câu)
+Môn Công nghệ nông nghiệp có thời gian thi 50 phút, chia làm 2 phần (phần 1: 24 câu, phần 2: 4 câu)
+Cuối tháng 12/2023, Bộ Giáo dục và Đào tạo đã công bố đề thi minh họa 17 môn của kỳ thi tốt nghiệp THPT 2025. Bộ cho biết đề thi được thiết kế theo hướng đánh giá năng lực, phù hợp với chương trình giáo dục phổ thông 2018.
+Kỳ thi tốt nghiệp THPT 2025 dự kiến diễn ra trong hai ngày 26-27/6. Thí sinh làm bài hai môn bắt buộc là Toán và Ngữ văn; hai môn lựa chọn nằm trong các môn Hóa học, Vật lý, Sinh học, Địa lý, Lịch sử, Giáo dục kinh tế và pháp luật, Tin học, Công nghệ và Ngoại ngữ (Anh, Đức, Nga, Nhật, Pháp, Trung, Hàn).
+Là kỳ thi tốt nghiệp đầu tiên cho học sinh theo chương trình giáo dục phổ thông mới (năm 2018), Bộ vẫn xây dựng đề riêng cho các thí sinh theo chương trình cũ (năm 2006). Những thí sinh chưa tốt nghiệp sẽ làm đề riêng này. Thí sinh đã tốt nghiệp nhưng học theo chương trình cũ, nếu muốn thi lại để xét tuyển đại học, được chọn đề thi dựa vào chương trình cũ hoặc mới.
+Tổ chức kỳ thi gồm 03 buổi thi: 01 buổi thi môn Ngữ văn, 01 buổi thi môn Toán và 01 buổi thi của bài thi tự chọn gồm 02 môn thi trong số các môn: Vật lí, Hóa học, Sinh học, Lịch sử, Địa lí, Giáo dục kinh tế và pháp luật, Tin học, Công nghệ định hướng Công nghiệp (gọi tắt là Công nghệ Công nghiệp), Công nghệ định hướng Nông nghiệp (gọi tắt là Công nghệ Nông nghiệp), Ngoại ngữ (Tiếng Anh, Tiếng Nga, Tiếng Pháp, Tiếng Trung Quốc, Tiếng Đức, Tiếng Nhật và Tiếng Hàn).
+
+II.	20 chứng chỉ được miễn thi Ngoại ngữ tốt nghiệp THPT 2025
+Thí sinh có IELTS 4.0, TOEFL iBT 45 điểm hay các chứng chỉ tương đương bậc 3/6 trở lên sẽ được miễn thi Ngoại ngữ khi xét tốt nghiệp THPT.
+Quy chế thi tốt nghiệp THPT do Bộ Giáo dục và Đào tạo ban hành ngày 24/12 nêu 20 chứng chỉ giúp thí sinh được miễn thi môn Ngoại ngữ trong xét tốt nghiệp THPT.
+Trong đó, 12 chứng chỉ môn Tiếng Anh, còn lại ở các môn Tiếng Nga, Pháp, Trung Quốc, Đức, Nhật. Yêu cầu tối thiểu mà thí sinh cần đạt là tương đương bậc 3 khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam. Riêng môn tiếng Hàn, không có chứng chỉ nào nằm trong danh sách.
+Những năm trước, ngoài miễn thi, thí sinh được tính điểm 10 môn Ngoại ngữ trong xét tốt nghiệp nếu đạt yêu cầu. Tuy nhiên, từ năm 2025, công thức tính điểm xét tốt nghiệp sẽ loại trừ môn này với những em được miễn.
+Bộ lý giải thay đổi này nhằm tiếp tục khuyến khích việc học ngoại ngữ, nhưng hướng tới công bằng hơn trong xét thí sinh đỗ tốt nghiệp. Bởi như quy định cũ, học sinh có chứng chỉ IELTS 4.0 cũng quy đổi thành điểm 10 như học sinh đạt điểm IETLS 8.5.
+Danh sách các chứng chỉ được miễn thi môn Tiếng Anh như sau:TOEFL ITP 450 điểm; TOEFL iBT 45 điểm; TOEIC (4 kỹ năng) Nghe: 275; Đọc: 275; Nói: 120; Viết: 120; IELTS 4.0 điểm; B1 Preliminary; B1 Business Preliminary; B1 Linguaskill; Aptis ESOL B1; Pearson English; International Certificate (PEIC) Level 2; Pearson Test of English Academic (PTE Academic) 43 điểm; chứng chỉ ngoại ngữ theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam đạt từ Bậc 3.
+Bộ lưu ý thí sinh việc miễn thi chỉ áp dụng khi xét công nhận tốt nghiệp THPT. Nếu muốn dùng điểm thi tốt nghiệp môn Ngoại ngữ để đăng ký xét tuyển đại học, thí sinh vẫn cần thi môn này.
+
+III.	Hồ sơ Đăng ký dự thi (ĐKDT) và thời gian, địa điểm ĐKDT
+a) Phiếu ĐKDT; 
+b) Các loại chứng nhận hợp lệ để được hưởng chế độ ưu tiên, khuyến khích (nếu có); 
+c) Ảnh cỡ 4x6 chụp theo kiểu căn cước/căn cước công dân, được chụp trước thời gian nộp hồ sơ không quá 06 tháng; 
+d) Bản sao học bạ THPT (đối với thí sinh thuộc điểm b khoản 1 Điều 19 của Quy chế này);
+Học sinh sẽ được phòng giáo vụ và giáo viên chủ nhiệm thông tin thời điểm và hình thức đăng ký dự thi (dạng trực tuyến) hoặc có thể trực tiếp tham khảo trên các trang web chính thống của Sở Giáo dục và trang web của trường thpt Lương Thế Vinh: thptluongthevinh.hcm.edu.vn
+
+IV.	Trách nhiệm của thí sinh
+1) Buổi làm thủ tục dự thi: 
+a) Có mặt tại phòng thi đúng thời gian quy định để làm thủ tục dự thi; 
+b) Xuất trình Thẻ Căn cước/CCCD/Hộ chiếu và nhận thẻ dự thi; 
+c) Nếu thấy có những sai sót về họ, tên đệm, tên, ngày, tháng, năm sinh, đối tượng ưu tiên, khu vực ưu tiên, phải báo ngay cho Giám thị hoặc người làm nhiệm vụ tại Điểm thi để xử lý kịp thời; 
+	d) Trường hợp bị mất Thẻ Căn Cước/CCCD/Hộ chiếu hoặc các giấy tờ cần thiết khác, phải báo cáo ngay cho Trưởng Điểm thi để xem xét, xử lý. 
+2) Mỗi buổi thi, có mặt tại điểm thi/phòng thi đúng thời gian quy định, chấp hành hiệu lệnh của Điểm thi và hướng dẫn của Giám thị. Thí sinh đến chậm quá 15 phút sau khi có hiệu lệnh tính giờ làm bài sẽ không được dự thi buổi thi đó. 
+3) Phải tuân thủ các quy định sau đây trong phòng thi: 
+a) Ngồi đúng vị trí có ghi số báo danh của mình; xuất trình Thẻ Căn cước/CCCD/Hộ chiếu, thẻ dự thi khi có yêu cầu của Giám thị hoặc người làm nhiệm vụ tại Điểm thi; 
+b) Để phục vụ quá trình làm bài thi, thí sinh được mang vào phòng thi, gồm: Bút viết; thước kẻ; bút chì; tẩy chì; êke; thước vẽ đồ thị; dụng cụ vẽ hình; máy tính cầm tay không có chức năng soạn thảo văn bản, không có thẻ nhớ. Cấm mang vào phòng thi/phòng chờ: Giấy than, bút xóa, đồ uống có cồn; vũ khí và chất gây nổ, gây cháy; tài liệu, thiết bị truyền tin (thu, phát sóng thông tin, ghi âm, ghi hình) hoặc chứa thông tin để gian lận trong quá trình làm bài thi; 
+c) Trước khi làm bài thi, thí sinh phải ghi đầy đủ số báo danh và thông tin của 
+mình vào đề thi, giấy thi, Phiếu TLTN, giấy nháp. Khi nhận đề thi, phải kiểm tra kỹ số trang, chất lượng các trang in và mã đề thi ở từng trang bảo đảm thống nhất (đối với các môn trắc nghiệm); nếu phát hiện đề thi thiếu trang hoặc rách, hỏng, nhòe, mờ phải báo cáo ngay với Giám thị, chậm nhất 05 (năm) phút từ thời điểm bắt đầu tính giờ làm bài; 
+d) Trong thời gian ở phòng thi phải giữ trật tự; báo cáo ngay cho Giám thị khi người khác chép bài của mình hoặc cố ý can thiệp vào bài của mình; không được trao đổi, bàn bạc, chép bài của người khác, cho người khác chép bài, sử dụng tài liệu trái quy định để làm bài thi hoặc có những cử chỉ, hành động gian lận; nếu muốn có ý kiến thí sinh phải giơ tay xin phép Giám thị, sau khi được phép, thí sinh đứng trình bày công khai ý kiến của mình. Không được đánh dấu hoặc làm ký hiệu riêng, không được viết bằng bút chì, trừ tô các ô trên Phiếu TLTN; chỉ được viết bằng một màu mực (màu xanh hoặc màu đen); 
+e) Đối với buổi thi tự luận, thí sinh chỉ được ra khỏi phòng thi sau 2/3 (hai phần ba) thời gian làm bài và phải nộp bài làm, đề thi và giấy nháp trước khi rời phòng thi, khu vực thi; đối với bài thi trắc nghiệm, thí sinh không được phép ra khỏi phòng thi trong suốt thời gian làm bài thi và thời gian giữa hai môn thi của bài thi tự chọn; nếu thí sinh nhất thiết phải tạm thời ra khỏi phòng thi thì Giám thị phải báo cho Giám sát phòng thi để phối hợp thực hiện; việc ra khỏi phòng thi, khu vực thi của thí sinh trong trường hợp cần cấp cứu phải có sự giám sát của công an cùng Giám sát phòng thi cho tới khi hết giờ làm bài của buổi thi và do Trưởng Điểm thi quyết định; 
+f) Khi có hiệu lệnh hết giờ làm bài, phải ngừng làm bài ngay, bảo quản bài thi. Khi nộp bài thi tự luận, phải ghi rõ số tờ giấy thi đã nộp và ký xác nhận vào Phiếu thu bài thi; thí sinh không làm được bài cũng phải nộp tờ giấy thi (đối với bài thi tự luận), Phiếu TLTN (đối với bài thi trắc nghiệm). 
+4) Khi dự thi các bài thi trắc nghiệm, ngoài các quy định tại khoản 4 Điều này, thí sinh phải tuân thủ các quy định dưới đây: 
+a) Phải làm bài thi trên Phiếu TLTN được in sẵn theo quy định của Bộ GDĐT; chỉ được tô bằng bút chì đen các ô số báo danh, ô mã đề thi và ô trả lời; trong trường hợp tô nhầm hoặc muốn thay đổi câu trả lời, phải tẩy sạch chì ở ô cũ, rồi tô ô mà mình lựa chọn; 
+b) Điền chính xác và đủ thông tin vào các mục trống ở phía trên Phiếu TLTN, đối với số báo danh phải ghi đủ và tô đủ phần số (kể cả các số 0 ở phía trước); điền chính xác mã đề thi vào hai Phiếu thu bài thi; 
+	c) Phải kiểm tra đề thi để bảo đảm có đủ số lượng câu hỏi, số trang như đã ghi trong đề và tất cả các trang của đề thi đều ghi cùng một mã đề thi; 
+	d) Không được nộp bài thi trước khi hết giờ làm bài; khi hết giờ làm bài, phải nộp Phiếu TLTN cho Giám thị và ký tên vào hai Phiếu thu bài thi; 
+	e) Chỉ được rời khỏi phòng thi sau khi Giám thị đã kiểm đủ số Phiếu TLTN của cả phòng thi và cho phép rời khỏi phòng thi; 
+f) Thí sinh chỉ thi môn thi thứ nhất trong bài thi tự chọn: Sau khi nộp phiếu TLTN, thí sinh ra khỏi phòng thi và di chuyển về phòng chờ ra cho đến khi hết giờ làm bài của môn thi cuối cùng mới được rời khỏi khu vực thi. Trong quá trình di chuyển về phòng chờ ra và trong thời gian ở phòng chờ ra, thí sinh phải giữ gìn trật tự, tuyệt đối tuân thủ hướng dẫn của Giám sát phòng thi hoặc người quản lý phòng chờ/khu vực chờ. Trong trường hợp cần thiết, chỉ được ra khỏi phòng chờ khi được phép của người quản lý phòng chờ và phải chịu sự giám sát của Giám sát phòng thi khi ở ngoài phòng chờ ra; 
+	g) Thí sinh chỉ dự thi môn thi thứ hai trong bài thi tự chọn phải có mặt tại nơi gọi thí sinh vào phòng thi trước giờ phát đề thi ít nhất 10 phút để làm công tác chuẩn bị. 
+5) Khi có sự việc bất thường xảy ra, phải tuyệt đối tuân theo sự hướng dẫn của Giám thị và những người có trách nhiệm tại Điểm thi.
+
+V.	CHẾ ĐỘ ĐIỂM ƯU TIÊN:
+Xét công nhận tốt nghiệp THPT tính theo 3 diện gồm Diện 1, Diện 2, Diện 3; trong đó, thí sinh Diện 1 là những thí sinh bình thường không được cộng điểm ưu tiên; thí sinh Diện 2 và Diện 3 được cộng điểm ưu tiên. 
+1) Diện 2: Cộng 0,25 điểm đối với thí sinh thuộc một trong những đối tượng sau: 
+	a) Thương binh, bệnh binh, người hưởng chính sách như thương binh bị suy giảm khả năng lao động dưới 81 % (đối với GDTX); 
+b) Con của thương binh, bệnh binh, người được hưởng chính sách như thương binh bị suy giảm khả năng lao động dưới 81%; Anh hùng lực lượng vũ trang nhân dân, Anh hùng lao động; con của Bà mẹ Việt Nam anh hùng; con của Anh hùng lực lượng vũ trang nhân dân, Anh hùng lao động; 
+c) Người dân tộc thiểu số; 
+d) Người Kinh, người nước ngoài cư trú tại Việt Nam có nơi thường trú trong thời gian học cấp THPT từ 03 năm trở lên ở xã đặc biệt khó khăn, xã biên giới, xã an toàn khu thuộc diện đầu tư của chương trình 135 theo Quyết định số 135/QĐ-TTg ngày 31/7/1998 của Thủ tướng Chính phủ (tính từ thời điểm các xã này hoàn thành Chương trình 135 trở về trước); xã đặc biệt khó khăn vùng bãi ngang ven biển và hải đảo; xã khu vực I, II, III và xã có thôn đặc biệt khó khăn vùng đồng bào dân tộc thiểu số và miền núi theo quy định hiện hành của Thủ tướng Chính phủ hoặc Bộ trưởng, Chủ nhiệm Ủy ban dân tộc, học tại các trường phổ thông không nằm trên địa bàn các quận của các thành phố trực thuộc Trung ương ít nhất 2 phần 3 thời gian học cấp THPT; 
+e) Người bị nhiễm chất độc hóa học; con của người bị nhiễm chất độc hóa học; con của người hoạt động kháng chiến bị nhiễm chất độc hóa học; người được cơ quan có thẩm quyền công nhận bị dị dạng, dị tật, suy giảm khả năng tự lực trong sinh hoạt hoặc lao động do hậu quả của chất độc hóa học; 
+f) Có tuổi đời từ 35 trở lên, tính đến ngày thi (đối với thí sinh GDTX). 
+2) Diện 3: Cộng 0,5 điểm đối với thí sinh thuộc một trong những đối tượng sau: 
+a) Người dân tộc thiểu số có nơi thường trú trong thời gian học cấp THPT từ 03 năm trở lên ở xã đặc biệt khó khăn, xã biên giới, xã an toàn khu thuộc diện đầu tư của Chương trình 135 theo Quyết định số 135/QĐ-TTg ngày 31/7/1998 của Thủ tướng Chính phủ (tính từ thời điểm các xã này hoàn thành Chương trình 135 trở về trước); xã đặc biệt khó khăn vùng bãi ngang ven biển và hải đảo; xã khu vực I, II, III và xã có thôn đặc biệt khó khăn thuộc vùng đồng bào dân tộc thiểu số và miền núi theo quy định hiện hành của Thủ tướng Chính phủ hoặc Bộ trưởng, Chủ nhiệm Ủy ban dân tộc, học tại các trường phổ thông dân tộc nội trú hoặc học tại các trường phổ thông không nằm trên địa bàn các quận của các thành phố trực thuộc Trung ương; 
+	b) Thương binh, bệnh binh, người hưởng chính sách như thương binh bị suy giảm khả năng lao động từ 81% trở lên (đối với GDTX); 
+	c) Con của liệt sĩ; con của thương binh, bệnh binh, người được hưởng chính sách như thương binh bị suy giảm khả năng lao động từ 81% trở lên. 
+3) Thí sinh có nhiều tiêu chuẩn ưu tiên chỉ được hưởng tiêu chuẩn ưu tiên cao nhất. 
+4) Những diện ưu tiên khác đã được quy định trong các văn bản pháp luật hiện hành sẽ do Bộ trưởng Bộ GDĐT xem xét, quyết định.
+
+VI.	CHẾ ĐỘ ĐIỂM KHUYẾN KHÍCH:
+Người học tham gia các cuộc thi và các hoạt động dưới đây trong thời gian học ở cấp THPT được cộng điểm khuyến khích để xét công nhận tốt nghiệp THPT: 
+1) Đoạt giải cá nhân trong kỳ thi chọn học sinh giỏi: Đoạt giải nhất, nhì, ba trong kỳ thi quốc gia hoặc giải nhất cấp tỉnh được cộng 2,0 điểm; giải khuyến khích trong kỳ thi quốc gia hoặc giải nhì cấp tỉnh được cộng 1,5 điểm; giải ba cấp tỉnh được cộng 1,0 điểm; 
+2) Đoạt giải cá nhân và đồng đội trong các kỳ thi thí nghiệm thực hành môn Vật lý, Hóa học, Sinh học; thi văn nghệ; thể dục thể thao; hội thao giáo dục quốc phòng; cuộc thi khoa học kỹ thuật; viết thư quốc tế do ngành Giáo dục phối hợp với các ngành chuyên môn từ cấp tỉnh trở lên tổ chức. 
+a) Đối với giải cá nhân: Đoạt giải nhất, nhì, ba quốc gia hoặc giải nhất cấp tỉnh hoặc Huy chương Vàng được cộng 2,0 điểm; giải khuyến khích quốc gia hoặc giải tư cuộc thi khoa học kỹ thuật cấp quốc gia hoặc giải nhì cấp tỉnh hoặc Huy chương Bạc được cộng 1,5 điểm; giải ba cấp tỉnh hoặc Huy chương Đồng được cộng 1,0 điểm; 
+b) Đối với giải đồng đội: Chỉ cộng điểm đối với giải quốc gia; số lượng cầu thủ, vận động viên, diễn viên của giải đồng đội theo quy định cụ thể của Ban Tổ chức từng giải; mức điểm khuyến khích được cộng cho các cá nhân trong giải đồng đội được thực hiện như đối với giải cá nhân quy định tại điểm này. 
+3) Những người học đoạt nhiều giải khác nhau trong nhiều cuộc thi/kỳ thi chỉ được hưởng một mức cộng điểm của loại giải cao nhất.
+
+VII.	Điểm xét tốt nghiệp THPT
+Tỷ lệ điểm học bạ trong xét công nhận tốt nghiệp THPT tăng từ 30% lên 50%, gồm cả lớp 10 tới 12, bỏ cộng điểm nghề. Công thức tính điểm xét công nhận tốt nghiệp THPT thay đổi từ năm 2025, theo quy chế thi do Bộ Giáo dục và Đào tạo công bố ngày 24/12. Cụ thể, điểm xét tốt nghiệp gồm điểm các môn thí sinh dự thi (chiếm 50%); điểm trung bình (ĐTB) năm lớp 10, 11 và 12 (chiếm 50%) và điểm ưu tiên, khuyến khích.
+Công thức tính điểm mời bạn tham khảo tại đường link: https://vnexpress.net/cong-thuc-tinh-diem-xet-tot-nghiep-thpt-tu-nam-2025-4831625.html
+
+VIII.	CÁC ĐIỂM MỚI TRONG KỲ THI THPTQG:
+Thứ nhất: Giảm 1 buổi thi, giảm 2 môn thi: Tổ chức Kỳ thi thành 3 buổi thi, gồm: 1 buổi thi môn Ngữ Văn, 1 buổi thi môn Toán và 1 buổi tổ chức bài thi tự chọn. Các thí sinh dự thi sẽ được sắp xếp theo tổ hợp bài thi tự chọn để tối ưu phòng thi, điểm thi.
 So với những năm trước, giảm 1 buổi thi, giảm 2 môn thi, qua đó giảm áp lực, giảm chi phí xã hội nhưng vẫn bảo đảm chất lượng Kỳ thi.
-b)	Tăng tỷ lệ sử dụng điểm đánh giá quá trình (học bạ) từ 30% lên 50%
-Thứ hai: Sử dụng kết hợp điểm đánh giá quá trình (học bạ) và kết quả thi trong xét công nhận tốt nghiệp theo tỷ lệ 50-50. Điểm trung bình học bạ các năm được tính theo trọng số.
-Việc tăng tỷ lệ sử dụng điểm đánh giá quá trình (học bạ) từ 30% lên 50% để đánh giá sát hơn về năng lực người học theo Chương trình GDPT 2018 (gồm nhiều năng lực khác mà bài thi tốt nghiệp không đánh giá hết). 
-Bên cạnh đó, điểm học bạ các năm lớp 10, lớp 11 cũng được sử dụng (với trọng số nhỏ hơn của lớp 12) thay vì chỉ của lớp 12 như trước đây. Thay đổi này có tác dụng thúc đẩy việc dạy và học ngay từ khi học sinh bước vào bậc học trung học phổ thông.
-c)	Chứng chỉ ngoại ngữ không được quy đổi thành điểm 10
-Thứ ba: Chứng chỉ ngoại ngữ vẫn được tiếp tục sử dụng để miễn thi trong xét công nhận tốt nghiệp nhưng không được quy đổi thành điểm 10 trong xét công nhận tốt nghiệp như trước đây; công thức tính điểm xét tốt nghiệp không có điểm ngoại ngữ trong trường hợp này.
+
+Thứ hai: Tăng tỷ lệ sử dụng điểm đánh giá quá trình (học bạ) từ 30% lên 50%: Sử dụng kết hợp điểm đánh giá quá trình (học bạ) và kết quả thi trong xét công nhận tốt nghiệp theo tỷ lệ 50-50. Điểm trung bình học bạ các năm được tính theo trọng số. Việc tăng tỷ lệ sử dụng điểm đánh giá quá trình (học bạ) từ 30% lên 50% để đánh giá sát hơn về năng lực người học theo Chương trình GDPT 2018 (gồm nhiều năng lực khác mà bài thi tốt nghiệp không đánh giá hết). Bên cạnh đó, điểm học bạ các năm lớp 10, lớp 11 cũng được sử dụng (với trọng số nhỏ hơn của lớp 12) thay vì chỉ của lớp 12 như trước đây. Thay đổi này có tác dụng thúc đẩy việc dạy và học ngay từ khi học sinh bước vào bậc học trung học phổ thông.
+
+Thứ ba: Chứng chỉ ngoại ngữ không được quy đổi thành điểm 10: Chứng chỉ ngoại ngữ vẫn được tiếp tục sử dụng để miễn thi trong xét công nhận tốt nghiệp nhưng không được quy đổi thành điểm 10 trong xét công nhận tốt nghiệp như trước đây; công thức tính điểm xét tốt nghiệp không có điểm ngoại ngữ trong trường hợp này.
 Cách thức này tiếp tục khuyến khích việc học ngoại ngữ nhưng hướng tới công bằng hơn trong xét đỗ tốt nghiệp. Ví dụ, trước đây, học sinh có chứng chỉ IELTS 4.0 cũng quy đổi thành điểm 10 như học sinh đạt điểm IETLS 8.5.
-d)	Bỏ cộng điểm chứng chỉ nghề đối với tất cả các thí sinh
-Thứ tư: Về điểm khuyến khích, bỏ cộng điểm chứng chỉ nghề đối với tất cả các thí sinh; bỏ cộng điểm chứng chỉ tin học, ngoại ngữ, bằng trung cấp nghề đối với thí sinh Giáo dục thường xuyên.
-Nội dung này nhằm phù hợp với Chương trình GDPT 2018, đồng thời tạo sự bình đẳng bởi học sinh tốt nghiệp hệ giáo dục chính quy và thường xuyên đều được cấp chung một loại bằng tốt nghiệp.
-e)	Thí sinh là người nước ngoài được sử dụng chứng chỉ tiếng Việt để miễn thi môn Ngữ văn
-Thứ năm: Cho phép thí sinh là người nước ngoài được sử dụng chứng chỉ tiếng Việt để miễn thi môn Ngữ văn trong xét công nhận tốt nghiệp THPT.
-Nội dung này nhằm tạo điều kiện thuận lợi trong việc xét công nhận tốt nghiệp cho người nước ngoài học chương trình giáo dục phổ thông ở Việt Nam nhưng vẫn bảo đảm được học vấn cơ bản của môn Ngữ văn thông qua việc học môn Ngữ văn trên lớp và việc thi để lấy chứng chỉ tiếng Việt.
+
+Thứ tư: Bỏ cộng điểm chứng chỉ nghề đối với tất cả các thí sinh: Về điểm khuyến khích, bỏ cộng điểm chứng chỉ nghề đối với tất cả các thí sinh; bỏ cộng điểm chứng chỉ tin học, ngoại ngữ, bằng trung cấp nghề đối với thí sinh Giáo dục thường xuyên.Nội dung này nhằm phù hợp với Chương trình GDPT 2018, đồng thời tạo sự bình đẳng bởi học sinh tốt nghiệp hệ giáo dục chính quy và thường xuyên đều được cấp chung một loại bằng tốt nghiệp.
 
